@@ -12,7 +12,7 @@
 [![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/Video-Chat-Web-app)
 
 ## Overview 👀
-<img src="images/videochat5.jpg">
+<img src="images/videochat2.jpg">
 
 - Real time video chat 📹 with user 
 - Clean UI ⚡
