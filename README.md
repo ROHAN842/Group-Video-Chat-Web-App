@@ -1,4 +1,4 @@
-# [Video-Chat-Web-App](https://peercoder-videochat.netlify.app/) ⭐
+# [Group-Video-Chat-Web-App](https://ckzpd8bo8182188qojnepq1cunw-i3raqv0bi-rohan842.vercel.app/create) ⭐
 
 ![React Badge](http://img.shields.io/badge/Powered%20By-React-blue?style=for-the-badge&logo=)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
@@ -8,22 +8,22 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
 
 
-[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://peercoder-videochat.netlify.app/)
-[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/Video-Chat-Web-app)
+[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://ckzpd8bo8182188qojnepq1cunw-i3raqv0bi-rohan842.vercel.app/create)
+[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/Group-Video-Chat-Web-App)
 
 ## Overview 👀
 <img src="images/videochat2.jpg">
 
-- Real time video chat 📹 with user 
+- Real time video chat 📹 with multiple user 
 - Clean UI ⚡
 
-## What is Video Chatting Web App? 🤔
+## What is Group Video Chatting Web App? 🤔
 
 #### This is basically a video chatting web app whose front end is purely made with React.js while the back end is completely framed by using socket.io with node.js and express.js as server.
 
 
 ## How it works? 🤔
-- **Open the website [https://peercodervideochatapp.netlify.app/](https://peercodervideochatapp.netlify.app/)**
+- **Open the website [https://ckzpd8bo8182188qojnepq1cunw-i3raqv0bi-rohan842.vercel.app/create](https://ckzpd8bo8182188qojnepq1cunw-i3raqv0bi-rohan842.vercel.app/create)**
 - **For Video Chat, user just need to copy a unique id and send it to user with whom he/she want to chat.**
 
 ## Dependencies 🗃
